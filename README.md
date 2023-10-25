@@ -2,6 +2,7 @@
 
 My solutions for problems from the [Codeforces](https://codeforces.com/) project
 
+- [1178C](https://codeforces.com/problemset/problem/1178/C) - [tiles](./Tiles)
 - [1182B](https://codeforces.com/problemset/problem/1182/B) - [plus from picture](./PlusFromPicture)
 - [1206C](https://codeforces.com/problemset/problem/1206/C) - [almost equal](./AlmostEqual)
 - [1209D](https://codeforces.com/problemset/problem/1209/D) - [cow and snacks](./CowAndSnacks)
