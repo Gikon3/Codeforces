@@ -9,6 +9,8 @@ My solutions for problems from the [Codeforces](https://codeforces.com/) project
 - [1237B](https://codeforces.com/problemset/problem/1237/B) - [balanced tunnel](./BalancedTunnel)
 - [1271B](https://codeforces.com/problemset/problem/1271/B) - [blocks](./Blocks)
 - [1277B](https://codeforces.com/problemset/problem/1277/B) - [make them odd](./MakeThemOdd)
+- [1291B](https://codeforces.com/problemset/problem/1291/B) - [array sharpening](./ArraySharpening)
+- [1304C](https://codeforces.com/problemset/problem/1304/C) - [air conditioner](./AirConditioner)
 - [1428B](https://codeforces.com/problemset/problem/1428/B) - [belted rooms](./BeltedRooms)
 - [1843B](https://codeforces.com/problemset/problem/1843/B) - [long long](./LongLong)
 - [1843C](https://codeforces.com/problemset/problem/1843/C) - [sum in binary tree](./SumInBinaryTree)
