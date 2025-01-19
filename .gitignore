@@ -1,2 +1,6 @@
 out
 .vs
+.project
+.cproject
+.settings
+build/
